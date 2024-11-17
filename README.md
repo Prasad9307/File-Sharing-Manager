@@ -159,6 +159,3 @@ Special thanks to **[Coding Wallah Sir YT Channel](https://youtu.be/3Fam-U_wQag?
 - **HTML, CSS, and JavaScript** (Web front-end development)
 - **Maven** (Build automation)
 - **Git** (Version control)
-
----
-```
