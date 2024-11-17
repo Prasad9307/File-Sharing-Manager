@@ -1,4 +1,3 @@
-
 # File Sharing Management System
 
 [![Java](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.java.com/)  
@@ -7,7 +6,7 @@
 
 ## 🚀 Overview
 
-The **File Sharing Management System** is a secure and efficient Java-based web application for managing file uploads, downloads, and sharing. This system leverages **Spring Boot**, **MySQL**, and **Thymeleaf** for a seamless experience.
+The **File Sharing Management System** is a secure and efficient Java-based web application for managing file uploads, downloads, and sharing. This system leverages **Spring Boot**, **MySQL**, **HTML**, **CSS**, **SQL**, and **Thymeleaf** for a seamless experience.
 
 ---
 
@@ -134,14 +133,30 @@ This project is licensed under the [MIT License](LICENSE).
 
 For queries or suggestions, feel free to reach out:
 
-- **Email**: your-email@example.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email**: prasadpawar.nbnstic.it@gmail.com 
+- **GitHub**: [Your GitHub Profile](https://github.com/Prasad9307)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/prasad-pawar1)
 
 ---
 
 ## 🌟 Special Thanks
 
-Special thanks to **[Coding Wallah Sir YT Channel](https://www.youtube.com/)** for inspiring and guiding this project.
+Special thanks to **[Coding Wallah Sir YT Channel](https://youtu.be/3Fam-U_wQag?si=7Ujn8NBFhOhjWtlx)** for inspiring and guiding this project.
 
 ---
+
+## 🧰 Technical Skills
+
+- **Java** (Java SE & EE)
+- **Spring Boot** (Spring MVC, Spring Security)
+- **Thymeleaf** (Template engine for web applications)
+- **MySQL** (Database management)
+- **OAuth2** (Authentication & Authorization)
+- **HTML, CSS, and JavaScript** (Web front-end development)
+- **Maven** (Build automation)
+- **Git** (Version control)
+
+---
+```
+
+You can copy and paste this directly into your `README.md` file. Let me know if you'd like to make further adjustments!
