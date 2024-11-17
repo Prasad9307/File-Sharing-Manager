@@ -162,5 +162,3 @@ Special thanks to **[Coding Wallah Sir YT Channel](https://youtu.be/3Fam-U_wQag?
 
 ---
 ```
-
-You can copy and paste this directly into your `README.md` file. Let me know if you'd like to make further adjustments!
