@@ -67,13 +67,17 @@ Open your browser and navigate to:
 ## 📸 Screenshots
 
 ### Home Page  
-![Home Page](screenshot-homepage.png)
+![Home Page](https://github.com/Prasad9307/File-Sharing-Manager/blob/main/src/1.PNG)
+
+### File Login Page  
+![File Login Page](https://github.com/Prasad9307/File-Sharing-Manager/blob/main/src/2.PNG)
 
 ### File Upload Page  
-![File Upload Page](screenshot-upload.png)
+![File Upload Page](
+https://github.com/Prasad9307/File-Sharing-Manager/blob/main/src/3.PNG)
 
-### File List Page  
-![File List Page](screenshot-filelist.png)
+### File Download Page  
+![File Download Page](https://github.com/Prasad9307/File-Sharing-Manager/blob/main/src/4.PNG)
 
 _Add your actual screenshots to the `screenshots/` folder and link them here._
 
