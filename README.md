@@ -134,8 +134,8 @@ This project is licensed under the [MIT License](LICENSE).
 For queries or suggestions, feel free to reach out:
 
 - **Email**: prasadpawar.nbnstic.it@gmail.com 
-- **GitHub**: [Your GitHub Profile](https://github.com/Prasad9307)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/prasad-pawar1)
+- **GitHub**:(https://github.com/Prasad9307)  
+- **LinkedIn**:(https://www.linkedin.com/in/prasad-pawar1)
 
 ---
 
